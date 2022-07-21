@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/yamilt351/Portfolio/static/css/main.b5917c24.css",
+    "main.js": "/yamilt351/Portfolio/static/js/main.54554c82.js",
+    "static/js/787.0629ac81.chunk.js": "/yamilt351/Portfolio/static/js/787.0629ac81.chunk.js",
+    "static/media/auto.png": "/yamilt351/Portfolio/static/media/auto.3411876c503f6ab6d1e8.png",
+    "static/media/viejo.png": "/yamilt351/Portfolio/static/media/viejo.415d71c52048954e7f18.png",
+    "static/media/anime.webp": "/yamilt351/Portfolio/static/media/anime.0d6a3fe7d6b3b18ee8c6.webp",
+    "static/media/viejo.jpg": "/yamilt351/Portfolio/static/media/viejo.1d73aaf40c1b673e1b6f.jpg",
+    "static/media/header.png": "/yamilt351/Portfolio/static/media/header.40d1a5be14a2712741b1.png",
+    "static/media/resume.pdf": "/yamilt351/Portfolio/static/media/resume.faad7163563e767a9f0b.pdf",
+    "static/media/tracker.png": "/yamilt351/Portfolio/static/media/tracker.ed0392ac773e202ad29a.png",
+    "static/media/metadata.png": "/yamilt351/Portfolio/static/media/metadata.3fad3ad3e5a56420d408.png",
+    "static/media/url.png": "/yamilt351/Portfolio/static/media/url.0564fbc5d1fb0d1ae434.png",
+    "static/media/pomodoro.png": "/yamilt351/Portfolio/static/media/pomodoro.309f1759dca882a2d8a1.png",
+    "static/media/todo.png": "/yamilt351/Portfolio/static/media/todo.533e5e2d026fcbf5259d.png",
+    "static/media/calculator.png": "/yamilt351/Portfolio/static/media/calculator.c396119de1e1cb467f20.png",
+    "index.html": "/yamilt351/Portfolio/index.html",
+    "main.b5917c24.css.map": "/yamilt351/Portfolio/static/css/main.b5917c24.css.map",
+    "main.54554c82.js.map": "/yamilt351/Portfolio/static/js/main.54554c82.js.map",
+    "787.0629ac81.chunk.js.map": "/yamilt351/Portfolio/static/js/787.0629ac81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5917c24.css",
+    "static/js/main.54554c82.js"
+  ]
+}
